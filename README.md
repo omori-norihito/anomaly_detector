@@ -14,7 +14,7 @@ git submodule update --init
 
 2. PyTorch のインストール
 
-GPU対応のPytouch使用しているCUDAのversionに併せてインストールする。
+GPU対応のPytouchを使用しているCUDAのversionに併せてインストールする。
 
 ```
 # CUDA11.6 の例
