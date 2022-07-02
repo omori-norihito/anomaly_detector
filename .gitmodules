@@ -1,0 +1,3 @@
+[submodule "ind_knn_ad"]
+	path = ind_knn_ad
+	url = https://github.com/rvorias/ind_knn_ad.git
